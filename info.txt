@@ -1,0 +1,36 @@
+Para começar servidor:
+npm run dev
+
+Instalados por npm:
+
+. Lil-GUI
+. Three.js
+. GSAP
+. vite
+
+Features:
+
+LETRA h -> Mostrar ou não mostrar Debug U.I. Pode modificar a cena
+através desse painel.
+
+Letra f -> FullScreen.
+
+RESIZING -> Para qualquer dispositivo e qualquer densidade de pixeis.
+
+TEXTURAS -> Usa texturas de metal, normals, AO, displacement, roughness etc.
+
+SHADOWS -> Adicionado sombras.
+
+PARTICULAS -> Foi criado particulas aleatoriamente posicionadas no ar
+com uma textura especifica e número de particulas.
+
+RAYCASTER -> Com raycaster, sabe-se se foi clicado nas esferas e em
+qual em especifico para girar o carro de 45 em 45 graus.
+
+TEXT -> Texto informativo para o utilizador saber que letras pressionar.
+
+MESHES -> Foi criada não apenas meshes nativas como Cylinder e BoxGeometry
+mas tambem meshs personalizadas com inserções criando buracos para vidros.
+
+DETALHES -> Foi adicionado por exemplo, entrada smooth ao entrar na cena
+e outros efeitos com GSAP.
